@@ -18,7 +18,13 @@ h1{
 }
 body{
 	font-size:12px;
+	background-color: lightgrey;
 }
 h2{
-	font-size:14px;
+	font-size:18px;
+}
+ul{
+	background-color: blueviolet;
+	color: burlywood;
+	font-size: 14px;
 }
